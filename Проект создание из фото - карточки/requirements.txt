@@ -1,4 +1,0 @@
-requests
-rembg
-pillow
-python-dotenv
